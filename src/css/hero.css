@@ -71,11 +71,6 @@
     align-items: flex-start;
   }
 
-  .hero .container {
-    padding-left: 32px;
-    padding-right: 32px;
-  }
-
   .hero-content {
     max-width: 768px;
   }
